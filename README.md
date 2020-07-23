@@ -1,1 +1,1 @@
-# robotframeword-selenium-mouseextensions
+# robotframework-selenium-mouseextensions
