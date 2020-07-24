@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="robotframework-selenium-mouseextensions",
-    version="0.1-2",
+    version="0.1",
     packages=["SeleniumMouseExtensions"],
     install_requires=["robotframework-seleniumlibrary"],
 

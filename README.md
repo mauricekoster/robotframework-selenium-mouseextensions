@@ -43,3 +43,9 @@ Test Kleki
     Capture Page Screenshot
     Sleep    5s
 ```
+
+## Keyword Documentation
+Keyword documentation [here](https://mauricekoster.github.io/robotframework-selenium-mouseextensions/) and if you need to create one for offline usage:
+```bash
+python -m robot.libdoc SeleniumLibrary::plugins=SeleniumMouseExtensions ./SeleniumLibraryWithMouseExtensions.html
+```
